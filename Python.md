@@ -63,6 +63,3 @@ Developed an **AI-powered ATS (Applicant Tracking System) scanner** that enhance
 
 ---
 
-### **Declaration**  
-I hereby declare that the above information is true and correct to the best of my knowledge.  
----
