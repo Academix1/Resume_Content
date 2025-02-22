@@ -1,7 +1,3 @@
-Here’s your resume with the project descriptions written in a more fluid, paragraph format:  
-
----
-
 ### **[Your Name]**  
 [Your Email] | [Your Phone Number] | [Your LinkedIn] | [Your GitHub] | [Your Portfolio (if any)]  
 
