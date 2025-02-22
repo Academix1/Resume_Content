@@ -1,60 +1,51 @@
-**[Your Name]**  
-[Your Email] | [Your Phone Number] | [Your LinkedIn] | [Your GitHub] | [Your Portfolio (if any)]
+Here’s your resume with the project descriptions written in a more fluid, paragraph format:  
+
+---
+
+### **[Your Name]**  
+[Your Email] | [Your Phone Number] | [Your LinkedIn] | [Your GitHub] | [Your Portfolio (if any)]  
 
 ---
 
 ### **Objective**  
-A highly motivated **Python Developer** with a strong foundation in **backend development, API integration, and cloud computing**. Passionate about building scalable applications, leveraging **FastAPI, AWS services, and AI-driven solutions**. Seeking an opportunity to contribute technical skills in a dynamic development environment.
+A highly motivated **Python Developer** with a strong foundation in **backend development, API integration, and cloud computing**. Passionate about building scalable applications, leveraging **FastAPI, AWS services, and AI-driven solutions**. Seeking an opportunity to contribute technical skills in a dynamic development environment.  
 
 ---
 
 ### **Skills**  
-- **Version Control:** Git, GitHub
-- **Programming Languages:** Python, JavaScript (React.js)
-- **Backend Frameworks:** FastAPI
-- **Frontend:** Html,Css,React.js,Redux
-- **Database:** VectorDB (Pinecone), MYSQL,MongoDB
-- **Cloud & DevOps:** AWS (EC2, S3, boto3,Lambda),Docker,GitHub Actions,CI/CD
-- **GEN_AI:** OpenAI (ChatGPT 4.0), Retrieval-Augmented Generation (RAG),Natural Language Processing (NLP) 
-- **APIs & Libraries:** RESTful APIs, boto3,LangChain
+- **Version Control:** Git, GitHub  
+- **Programming Languages:** Python, JavaScript (React.js)  
+- **Backend Frameworks:** FastAPI  
+- **Frontend:** HTML, CSS, React.js, Redux  
+- **Database:** VectorDB (Pinecone), MySQL, MongoDB  
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda, boto3), Docker, GitHub Actions, CI/CD  
+- **GEN AI:** OpenAI (ChatGPT 4.0), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP)  
+- **APIs & Libraries:** RESTful APIs, boto3, LangChain  
+
 ---
 
 ### **Projects**  
 
-#### **1. Full Stack Application**  
+#### **Full Stack Application – MovieRating Website**  
+Built a **movie rating and review platform** that enables users to browse movies, filter content by genre, and view detailed information. The frontend, developed using **React.js** and styled with CSS, provides an intuitive and engaging user experience. The backend, powered by **FastAPI**, fetches movie data dynamically from third-party APIs. **Redux** is integrated for efficient state management, ensuring smooth and responsive UI interactions. To enhance security, **JWT authentication** is implemented, allowing users to log in securely. The application is deployed with the **backend running on AWS EC2** and the **frontend hosted on Vercel/Netlify**, ensuring scalability and high availability.  
 
-#### **1. Full Stack Application - MovieRating Website**  
-- Developed a **React-based frontend** for browsing movies, filtering by genre, and viewing detailed movie information.  
-- Designed a **FastAPI backend** to fetch movie data using **third-party APIs**.  
-- Utilized **Redux** for state management, improving UI responsiveness.  
-- Implemented **JWT authentication** for secure user access.  
-- Deployed the backend on **AWS EC2** and the frontend on **Vercel/Netlify**.
+#### **Cloud Project – AWS Automation with boto3**  
+Designed and implemented an **automated cloud resource management system** using **boto3 (AWS SDK for Python)**. This project focuses on automating **EC2 instance provisioning** and **S3 bucket management**, streamlining cloud operations. **IAM role-based security** is incorporated to manage AWS credentials securely, preventing unauthorized access. The system allows users to dynamically configure cloud resources via API calls, making cloud infrastructure management efficient and seamless. Additionally, **logging and monitoring** mechanisms are integrated to track resource usage, ensuring optimal scalability and cost efficiency.  
 
-#### **2. Cloud Project – AWS Automation with boto3**  
-- Automated **EC2 instance creation** and **S3 bucket management** using **boto3 (AWS SDK for Python)**.  
-- Integrated **IAM role-based security** for managing AWS credentials.  
-- Developed a Python script to dynamically **provision and configure cloud resources** using API keys.  
-- Implemented **logging and monitoring** for tracking resource usage.  
-- Enhanced cloud automation for better scalability and efficiency.
-
-#### **3. Gen AI – Advanced ATS Scanner**  
-- Developed an **AI-powered ATS (Applicant Tracking System) scanner** using **OpenAI's ChatGPT 4.0**.  
-- Designed a system to **load resumes**, **scan content**, and **compare skills and project descriptions** with job descriptions.  
-- Implemented **RAG (Retrieval-Augmented Generation)** to enhance the accuracy of **resume-to-job** matching.  
-- Built a user-friendly dashboard for **uploading resumes and viewing ranking scores** of candidates.  
-- Used **FastAPI for backend processing** and **VectorDB (Pinecone) for storing and retrieving structured resume data**.
+#### **Gen AI – Advanced ATS Scanner**  
+Developed an **AI-powered ATS (Applicant Tracking System) scanner** that enhances resume screening using **OpenAI's ChatGPT 4.0**. This system intelligently loads resumes, scans content, and evaluates candidate profiles by comparing **skills and project descriptions with job postings**. **Retrieval-Augmented Generation (RAG)** is implemented to improve the accuracy of resume-to-job matching, ensuring a more precise and efficient shortlisting process. The backend, built with **FastAPI**, processes resume data efficiently, while **VectorDB (Pinecone) is utilized for structured storage and retrieval of candidate profiles**. A user-friendly dashboard allows recruiters to upload resumes and view ranked candidates based on their compatibility scores.  
 
 ---
 
 ### **Education**  
 **[Your Degree]** – [Your University]  
-[Year of Graduation]
+[Year of Graduation]  
 
 ---
 
 ### **Certifications**  
-- [Any relevant Python, AI, or Cloud certification]
-- AWS Certified Cloud Practitioner (if applicable)
+- [Any relevant Python, AI, or Cloud certification]  
+- AWS Certified Cloud Practitioner (if applicable)  
 
 ---
 
@@ -62,7 +53,7 @@ A highly motivated **Python Developer** with a strong foundation in **backend de
 - Passionate about **problem-solving and AI-driven development**.  
 - Strong analytical and debugging skills.  
 - Ability to work in a **collaborative, agile environment**.  
-- Quick learner, always eager to explore **new technologies**.
+- Quick learner, always eager to explore **new technologies**.  
 
 ---
 
@@ -73,7 +64,5 @@ A highly motivated **Python Developer** with a strong foundation in **backend de
 ---
 
 ### **Declaration**  
-I hereby declare that the above information is true and correct to the best of my knowledge.
-
+I hereby declare that the above information is true and correct to the best of my knowledge.  
 ---
-
